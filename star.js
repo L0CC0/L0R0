@@ -1,1 +1,1 @@
-HTMLLabelElement
+ASHTMLLabelElement
